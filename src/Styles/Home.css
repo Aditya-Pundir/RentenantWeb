@@ -1,0 +1,43 @@
+.logoParentContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5%;
+}
+.logoContainer {
+  height: 7rem;
+  width: 7rem;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00293b;
+}
+.logo {
+  height: 5rem;
+  width: 5rem;
+}
+.title {
+  color: #00293b;
+}
+.buttonContainer {
+  padding-top: 10%;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.link {
+  width: 20%;
+}
+.policyButton {
+  background-color: #00293b;
+  width: 100%;
+  padding: 1% 2%;
+  border-radius: 1rem;
+  font-size: large;
+  color: #c8dadb;
+  cursor: pointer;
+}

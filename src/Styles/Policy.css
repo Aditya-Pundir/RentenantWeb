@@ -1,0 +1,10 @@
+.policyContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  text-align: center;
+}
+.para {
+  font-size: x-large;
+}
