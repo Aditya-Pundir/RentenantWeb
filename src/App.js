@@ -12,6 +12,7 @@ function App() {
           <Route path="/privacy-policy" element={<Policy />} />
         </Routes>
       </Router>
+      <p style={{ textAlign: "Center" }}>Contact: adityapundir2k@gmail.com</p>
     </>
   );
 }
